@@ -4,7 +4,7 @@ const multer = require('multer');
 const path = require('path');
 const fs = require('fs-extra');
 const TelegramBot = require('node-telegram-bot-api');
-const { error } = require('console');
+const { error } = require('console')
 
 const app = express();
 const port = 1000;
