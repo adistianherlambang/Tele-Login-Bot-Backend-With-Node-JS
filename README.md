@@ -19,7 +19,7 @@ This is a Node.js project that allows an admin to control the user’s journey a
 1. Make sure **Node.js** is installed on your machine.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   [git clone https://github.com/username/repository.git](https://github.com/adistianherlambang/Tele-Login-Bot-Backend-With-Node-JS.git)
    ```
 3. Navigate to the project directory:
    ```bash
